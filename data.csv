@@ -1,0 +1,103 @@
+Date,Task,Start Time,End Time,Breaks,Completed,Tasks Completed,Distractions,Day Type
+2023-05-01,GitHub Contributions,08:00,09:30,1,Yes,3,0,W
+2023-05-01,Coding Practice,10:00,11:30,2,Yes,3,1,W
+2023-05-01,Lab Assignments,12:00,13:30,3,Yes,3,2,W
+2023-05-02,Academics,09:00,10:00,1,Yes,1,1,WE
+2023-05-02,Projects,10:30,12:00,2,Yes,2,0,WE
+2023-05-02,Coding Practice,14:00,16:00,4,Yes,4,3,WE
+2023-05-02,GitHub Contributions,08:30,09:30,1,Yes,1,1,WE
+2023-05-03,Projects,10:00,12:00,3,Yes,2,2,WE
+2023-05-03,Lab Assignments,13:00,14:30,2,Yes,3,1,WE
+2023-05-03,Academics,09:00,11:00,3,Yes,2,0,WE
+2023-05-03,Projects,12:00,13:30,2,Yes,2,2,WE
+2023-05-03,GitHub Contributions,14:00,15:00,1,Yes,1,1,WE
+2023-05-03,Coding Practice,09:00,10:30,2,Yes,2,0,WE
+2023-05-04,Academics,11:00,13:00,3,Yes,3,2,W
+2023-05-04,Lab Assignments,14:00,15:30,1,Yes,2,1,W
+2023-05-05,Projects,10:00,11:30,2,Yes,2,1,WE
+2023-05-05,Coding Practice,12:30,14:00,2,Yes,2,2,WE
+2023-05-06,GitHub Contributions,14:30,15:30,1,Yes,1,0,W
+2023-05-07,Academics,08:00,09:00,1,Yes,1,0,WE
+2023-05-07,Coding Practice,09:30,11:00,2,Yes,2,1,WE
+2023-05-07,Lab Assignments,11:30,13:00,3,Yes,2,2,WE
+2023-05-08,Academics,09:00,10:00,1,Yes,1,1,W
+2023-05-08,Projects,10:30,12:00,2,Yes,2,0,W
+2023-05-08,Coding Practice,14:00,16:00,4,Yes,4,3,W
+2023-05-08,GitHub Contributions,08:30,09:30,1,Yes,1,1,W
+2023-05-09,Projects,10:00,12:00,3,Yes,2,2,WE
+2023-05-09,Lab Assignments,13:00,14:30,2,Yes,3,1,WE
+2023-05-09,Academics,09:00,11:00,3,Yes,2,0,WE
+2023-05-09,Projects,12:00,13:30,2,Yes,2,2,WE
+2023-05-09,GitHub Contributions,14:00,15:00,1,Yes,1,1,WE
+2023-05-09,Coding Practice,09:00,10:30,2,Yes,2,0,WE
+2023-05-10,Academics,11:00,13:00,3,Yes,3,2,W
+2023-05-10,Lab Assignments,14:00,15:30,1,Yes,2,1,W
+2023-05-11,Projects,10:00,11:30,2,Yes,2,1,WE
+2023-05-11,Coding Practice,12:30,14:00,2,Yes,2,2,WE
+2023-05-12,GitHub Contributions,08:00,09:30,1,Yes,3,0,W
+2023-05-12,Coding Practice,10:00,11:30,2,Yes,3,1,W
+2023-05-12,Lab Assignments,12:00,13:30,3,Yes,3,2,W
+2023-05-13,Academics,09:00,10:00,1,Yes,1,1,W
+2023-05-13,Projects,10:30,12:00,2,Yes,2,0,W
+2023-05-13,Coding Practice,14:00,16:00,4,Yes,4,3,W
+2023-05-13,GitHub Contributions,08:30,09:30,1,Yes,1,1,W
+2023-05-14,Projects,10:00,12:00,3,Yes,2,2,WE
+2023-05-14,Lab Assignments,13:00,14:30,2,Yes,3,1,WE
+2023-05-14,Academics,09:00,11:00,3,Yes,2,0,WE
+2023-05-14,Projects,12:00,13:30,2,Yes,2,2,WE
+2023-05-14,GitHub Contributions,14:00,15:00,1,Yes,1,1,WE
+2023-05-14,Coding Practice,09:00,10:30,2,Yes,2,0,WE
+2023-05-15,Academics,11:00,13:00,3,Yes,3,2,W
+2023-05-15,Lab Assignments,14:00,15:30,1,Yes,2,1,W
+2023-05-16,Projects,10:00,11:30,2,Yes,2,1,WE
+2023-05-16,Coding Practice,12:30,14:00,2,Yes,2,2,WE
+2023-05-17,GitHub Contributions,08:00,09:30,1,Yes,3,0,W
+2023-05-17,Coding Practice,10:00,11:30,2,Yes,3,1,W
+2023-05-17,Lab Assignments,12:00,13:30,3,Yes,3,2,W
+2023-05-18,Academics,09:00,10:00,1,Yes,1,1,W
+2023-05-18,Projects,10:30,12:00,2,Yes,2,0,W
+2023-05-18,Coding Practice,14:00,16:00,4,Yes,4,3,W
+2023-05-18,GitHub Contributions,08:30,09:30,1,Yes,1,1,W
+2023-05-19,Projects,10:00,12:00,3,Yes,2,2,WE
+2023-05-19,Lab Assignments,13:00,14:30,2,Yes,3,1,WE
+2023-05-19,Academics,09:00,11:00,3,Yes,2,0,WE
+2023-05-19,Projects,12:00,13:30,2,Yes,2,2,WE
+2023-05-19,GitHub Contributions,14:00,15:00,1,Yes,1,1,WE
+2023-05-19,Coding Practice,09:00,10:30,2,Yes,2,0,WE
+2023-05-20,Academics,11:00,13:00,3,Yes,3,2,W
+2023-05-20,Lab Assignments,14:00,15:30,1,Yes,2,1,W
+2023-05-21,Projects,10:00,11:30,2,Yes,2,1,WE
+2023-05-21,Coding Practice,12:30,14:00,2,Yes,2,2,WE
+2023-05-22,GitHub Contributions,14:30,15:30,1,Yes,1,0,W
+2023-05-23,Academics,08:00,09:00,1,Yes,1,0,WE
+2023-05-23,Coding Practice,09:30,11:00,2,Yes,2,1,WE
+2023-05-23,Lab Assignments,11:30,13:00,3,Yes,2,2,WE
+2023-05-24,Academics,09:00,10:00,1,Yes,1,1,W
+2023-05-24,Projects,10:30,12:00,2,Yes,2,0,W
+2023-05-24,Coding Practice,14:00,16:00,4,Yes,4,3,W
+2023-05-24,GitHub Contributions,08:30,09:30,1,Yes,1,1,W
+2023-05-25,Projects,10:00,12:00,3,Yes,2,2,WE
+2023-05-25,Lab Assignments,13:00,14:30,2,Yes,3,1,WE
+2023-05-25,Academics,09:00,11:00,3,Yes,2,0,WE
+2023-05-25,Projects,12:00,13:30,2,Yes,2,2,WE
+2023-05-25,GitHub Contributions,14:00,15:00,1,Yes,1,1,WE
+2023-05-25,Coding Practice,09:00,10:30,2,Yes,2,0,WE
+2023-05-26,Academics,11:00,13:00,3,Yes,3,2,W
+2023-05-26,Lab Assignments,14:00,15:30,1,Yes,2,1,W
+2023-05-27,Projects,10:00,11:30,2,Yes,2,1,WE
+2023-05-27,Coding Practice,12:30,14:00,2,Yes,2,2,WE
+2023-05-28,GitHub Contributions,08:00,09:30,1,Yes,3,0,W
+2023-05-28,Coding Practice,10:00,11:30,2,Yes,3,1,W
+2023-05-28,Lab Assignments,12:00,13:30,3,Yes,3,2,W
+2023-05-29,Academics,09:00,10:00,1,Yes,1,1,W
+2023-05-29,Projects,10:30,12:00,2,Yes,2,0,W
+2023-05-29,Coding Practice,14:00,16:00,4,Yes,4,3,W
+2023-05-29,GitHub Contributions,08:30,09:30,1,Yes,1,1,W
+2023-05-30,Projects,10:00,12:00,3,Yes,2,2,WE
+2023-05-30,Lab Assignments,13:00,14:30,2,Yes,3,1,WE
+2023-05-30,Academics,09:00,11:00,3,Yes,2,0,WE
+2023-05-30,Projects,12:00,13:30,2,Yes,2,2,WE
+2023-05-30,GitHub Contributions,14:00,15:00,1,Yes,1,1,WE
+2023-05-30,Coding Practice,09:00,10:30,2,Yes,2,0,WE
+2023-05-31,Academics,11:00,13:00,3,Yes,3,2,W
+2023-05-31,Lab Assignments,14:00,15:30,1,Yes,2,1,W
