@@ -1,1 +1,21 @@
+It is a search huurstic algorithm which is inspired by charles Darwin's theory of natural selection. 
+It reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next generation. 
 
+Notion of Natural Selection - 
+
+There are 5 phases for this - 
+1- Initial Population 
+2- Fitness Function 
+3- Selection 
+4- Crossover 
+5- Mutation 
+
+Initial Population - 
+
+The process begins with a set of individuals which is called population .
+An idividual is charachterised by a set of parameters (variables) known as genes. Genes are joined into a string to form a chromosome (solution). 
+We encode the genes in a chromosome. 
+
+Fitness Function - 
+
+It determines how it an individual is. 
