@@ -1,1 +1,40 @@
+It is a search huurstic algorithm which is inspired by charles Darwin's theory of natural selection. 
+It reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next generation. 
 
+Notion of Natural Selection - 
+
+There are 5 phases for this - 
+1- Initial Population 
+2- Fitness Function 
+3- Selection 
+4- Crossover 
+5- Mutation 
+
+Initial Population - 
+
+The process begins with a set of individuals which is called population .
+An idividual is charachterised by a set of parameters (variables) known as genes. Genes are joined into a string to form a chromosome (solution). 
+We encode the genes in a chromosome. 
+
+Fitness Function - 
+
+It determines how it an individual is. 
+It gives a fitness score to each individual. The probability that an individual will be selected for reproduction is based on its fitness score. 
+
+Selection - 
+
+Select the fittest individuals and let them pass their genes to the new generation.
+
+Crossover - 
+
+It is the most significant phase.
+For each pair of parents to be mated, a crossover point is chosen from within the genes. Offsprings are created by exchanging the genes of parents among themselves until the crossover point is reached. 
+The new offsprings are added to the population. 
+
+Mutation - 
+
+Some of the bits in the bit string can be flipped. It occurs to maintain diversity within the population and prevent premature convergence. 
+
+Termination - 
+
+The process terminates if the population does not produce offspring which are significantly different from the previous generation. 
