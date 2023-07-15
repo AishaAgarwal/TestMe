@@ -1,0 +1,5 @@
+Google OR Tools - https://developers.google.com/optimization/introduction
+
+CP - SAT solver - https://developers.google.com/optimization/cp/cp_solver
+
+DEAP - https://deap.readthedocs.io/en/master/
